@@ -1,3 +1,3 @@
 # michelle
-a projcct for something
+a project for something
 continue
